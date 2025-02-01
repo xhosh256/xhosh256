@@ -1,6 +1,6 @@
 # My name is Лёня/Лёньчик but you can call me just xhosh
 
-## About me
+## 🌱 About me
 
  💻 Writing code in Java
  
@@ -10,7 +10,7 @@
 
 ---
 
-## Social Media
+## 🗣️ Social Media
 
 - **💩[Telegram](https://t.me/xhoshlord)**
 
