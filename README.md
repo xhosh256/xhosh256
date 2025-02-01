@@ -8,6 +8,8 @@
  
  💀 Preparing for FAANG
 
+---
+
 ## 🗣️ Social Media
 
 - **💩[Telegram](https://t.me/xhoshlord)**
