@@ -12,6 +12,6 @@
 
 ## 🗣️ Social Media
 
-- **💩[Telegram](https://t.me/xhoshlord)**
+- **💩[Telegram](https://t.me/xhosh256)**
 
 - **🏆[Leetcode](https://leetcode.com/u/xhosh256/)**
