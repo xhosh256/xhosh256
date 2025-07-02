@@ -3,10 +3,6 @@
 ## 🌱 About me
 
  💻 Writing code in Java
- 
- 🧠 Grinding algorithms
- 
- 💀 Preparing for FAANG
 
 ---
 
