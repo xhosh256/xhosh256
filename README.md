@@ -13,7 +13,7 @@ I'll be posting some of my projects here, some of them might just be practice (I
 
 **Programming Languages:**
 
-```Java```
+```Java, JavaScript```
 
 **Databases:**
 
@@ -21,7 +21,7 @@ I'll be posting some of my projects here, some of them might just be practice (I
 
 **Frontend:**
 
-```HTML, CSS```
+```HTML, CSS, JavaScript```
 
 **Backend:**
 
