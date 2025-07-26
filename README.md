@@ -21,7 +21,7 @@ I'll be posting some of my projects here, some of them might just be practice (I
 
 **Frontend:**
 
-```HTML, CSS, Tymeleaf```
+```HTML, CSS```
 
 **Backend:**
 
