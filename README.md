@@ -17,7 +17,7 @@ I'll be posting some of my projects here, some of them might just be practice (I
 
 **Databases:**
 
-```soon```
+```PostgreSQL```
 
 **Frontend:**
 
@@ -25,4 +25,4 @@ I'll be posting some of my projects here, some of them might just be practice (I
 
 **Backend:**
 
-```soon```
+```Spring```
