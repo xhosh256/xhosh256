@@ -20,7 +20,7 @@
 
 **Backend:**
 
-```Spring, Hibernate```
+```Spring, Hibernate, JUnit 5, Mockito```
 
 **Tools & Others**
 
