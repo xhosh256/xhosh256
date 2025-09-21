@@ -8,7 +8,7 @@
 
 **Programming Languages:**
 
-```Java```
+```Java, JavaScript```
 
 **Databases:**
 
@@ -16,7 +16,7 @@
 
 **Frontend:**
 
-```HTML, CSS```
+```HTML, CSS, Vanilla JS```
 
 **Backend:**
 
