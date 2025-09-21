@@ -1,6 +1,6 @@
 # Меня зовут Лёня/My name is Lenya
 
-- **💩[Telegram](https://t.me/xhosh256)**
+- **💩[Telegram](https://t.me/XthaThug)**
 
 - **🏆[Leetcode](https://leetcode.com/u/xhosh256/)**
 
