@@ -1,4 +1,4 @@
-# What's up? How you doing? My name is Lenya but you can call me just xhosh!
+# What's up? How you doing? I'm Lenya, but you can call me Xhosh!
 
 - **💩[Telegram](https://t.me/XthaThug)**
 
