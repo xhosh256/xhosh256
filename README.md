@@ -1,8 +1,8 @@
 # What's up? I'm Lenya, but you can call me Xhosh!
 
-- **💩[Telegram](https://t.me/XthaThug)**
+- **💩[Telegram](https://t.me/babypluto08)**
 
-- **🏆[Leetcode](https://leetcode.com/u/babypluto08/)**
+- **🏆[Leetcode]([https://leetcode.com/u/babypluto08/](https://leetcode.com/u/xhosh256/))**
 
 # Current Tech Stack
 
