@@ -1,4 +1,4 @@
-# Меня зовут Лёня/My name is Lenya
+# What's up? How you doing? My name is Lenya but you can call me just xhosh!
 
 - **💩[Telegram](https://t.me/XthaThug)**
 
