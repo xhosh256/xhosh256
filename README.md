@@ -2,7 +2,7 @@
 
 - **💩[Telegram](https://t.me/XthaThug)**
 
-- **🏆[Leetcode](https://leetcode.com/u/xhosh256/)**
+- **🏆[Leetcode](https://leetcode.com/u/babypluto08/)**
 
 # Current Tech Stack
 
