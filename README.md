@@ -12,7 +12,7 @@
 
 **Databases:**
 
-```PostgreSQL```
+```PostgreSQL, Redis```
 
 **Frontend:**
 
