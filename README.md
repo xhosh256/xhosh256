@@ -1,27 +1,18 @@
-# What's up? I'm Lenya, but you can call me Xhosh!
+# Всем привет, меня зовут Лёня
 
-- **💩[Telegram](https://t.me/babypluto08)**
+## 🚀 About Me
+Я веб-разработчик на Java. В настоящий момент занимаюсь разработкой на Spring
 
-- **🏆[Leetcode](https://leetcode.com/u/xhosh256/)**
+## 🛠 Tech Stack
 
-# Current Tech Stack
+|Category|Technologies|
+| :--------: | :-------: |
+| `Languages` | `Java, JavaScript` |
+| `Databases` | `PostgreSQL, Redis` |
+| `Frontend` | `HTML, CSS, Vanilla JS` |
+| `Backend` | `Spring, Hibernate, JUnit 5, Mockito` |
+| `Tools & Others` | `Docker, Liquibase` |
 
-**Programming Languages:**
+## Feedback
 
-```Java, JavaScript```
-
-**Databases:**
-
-```PostgreSQL, Redis```
-
-**Frontend:**
-
-```HTML, CSS, Vanilla JS```
-
-**Backend:**
-
-```Spring, Hibernate, JUnit 5, Mockito```
-
-**Tools & Others**
-
-```Docker, Liquibase```
+If you'd like to contact me, feel free to reach out at fake@fake.com
