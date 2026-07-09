@@ -15,4 +15,4 @@
 
 ## Feedback
 
-If you'd like to contact me, feel free to reach out at fake@fake.com
+If you'd like to contact me, feel free to reach out at lenya.kharitonov.98@gmail.com
